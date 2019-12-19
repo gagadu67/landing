@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Orbitron:400,700|Sanchez&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/list.css");
+
+
+body {
+	font-family: 'Sanchez', serif;
+	font-size: 18px;
+	text-align: center;
+	margin: 0px;
+	background-color:#090a4ecc;
+}
+
+h1, h2, h3 {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
